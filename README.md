@@ -45,8 +45,6 @@ configure dynamic scaling based on average CPU usage.
 Rushikesh Sutar\
 DevOps Engineer
 
-Focused on Production-Ready Git Practices
-
 ------------------------------------------------------------------------
 
 ⭐ If this repository helped you, consider giving it a star.
