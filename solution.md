@@ -91,4 +91,15 @@ Successfully implemented:
 - Dynamic scaling based on CPU
 - Self-healing infrastructure
 
-NavOps Academy
+------------------------------------------------------------------------
+
+## 👨‍💻 Author
+
+Rushikesh Sutar\
+DevOps Engineer
+
+Focused on Production-Ready Git Practices
+
+------------------------------------------------------------------------
+
+⭐ If this repository helped you, consider giving it a star.
